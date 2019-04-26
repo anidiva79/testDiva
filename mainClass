@@ -1,0 +1,4 @@
+void main()
+{
+debug.log("hello world");
+}
